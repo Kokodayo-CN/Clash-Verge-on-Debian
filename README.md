@@ -3,7 +3,7 @@
 This is an archive of installation package and dependencies of Clash Verge on Ubuntu.  
 I mostly set it up so I won't be panicing after reinstalling Ubuntu and can't go over the big wall.  
 
-## Why didn't I try [https://github.com/clash-verge-rev/clash-verge-rev](Clash Verge Rev)?  
+## Why didn't I try [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev)?  
 
 I'm already used to using Clash and Clash Verge, and I prefer to have a little cat on my status bar instead of a fox.  
 Besides, it seems using Clash Verge Rev also requires going through the hassle of installing extra dependencies.  
@@ -16,7 +16,7 @@ Yes the app seems "installed" with trigger set up properly, but it won't open or
 
 ## How to install Clash Verge on Ubuntu?  
 
-### Step 1: Download [./clash-verge_1.3.8_amd64.deb](Clash&nbsp;Verge) and Install  
+### Step 1: Download [Clash&nbsp;Verge](./clash-verge_1.3.8_amd64.deb) and Install  
 
 - Double click to install via Snap Shop (possibly not working on Ubuntu 24.04), or  
 - Use dpkg to install: `sudo dpkg -i PACKAGE`, replace `PACKAGE` with path to the package you just downloaded  
@@ -29,7 +29,7 @@ Yes the app seems "installed" with trigger set up properly, but it won't open or
 
 ### Step 3: Install Dependencies  
 
-- Download [./libicu70_70.1-2_amd64.deb](libicu70_70.1-2_amd64.deb), [./libjavascriptcoregtk-4.0-18_2.36.0-2ubuntu1_amd64.deb](libjavascriptcoregtk-4.0-18_2.36.0-2ubuntu1_amd64.deb) and [./libwebkit2gtk-4.0-37_2.36.0-2ubuntu1_amd64.deb](libwebkit2gtk-4.0-37_2.36.0-2ubuntu1_amd64.deb).  
+- Download [libicu70_70.1-2_amd64.deb](./libicu70_70.1-2_amd64.deb), [libjavascriptcoregtk-4.0-18_2.36.0-2ubuntu1_amd64.deb](./libjavascriptcoregtk-4.0-18_2.36.0-2ubuntu1_amd64.deb) and [libwebkit2gtk-4.0-37_2.36.0-2ubuntu1_amd64.deb](./libwebkit2gtk-4.0-37_2.36.0-2ubuntu1_amd64.deb).  
 - Install these packages with the following order:
 ```
 sudo dpkg -i libicu70
@@ -41,7 +41,7 @@ sudo dpkg -i libwebkit2gtk-4.0-37
 
 ### Step 4: Reinstall Clash Verge  
 
-- Install Clash Verge again following instructions in [https://github.com/Kokodayo-CN/ClashVergeforUbuntu?tab=readme-ov-file#step-1](Step&nbsp;1).  
+- Install Clash Verge again following instructions in [Step&nbsp;1](https://github.com/Kokodayo-CN/ClashVergeforUbuntu?tab=readme-ov-file#step-1).  
 
 ### Step 5: Finish  
 
