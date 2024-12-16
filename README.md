@@ -41,7 +41,7 @@ sudo dpkg -i libwebkit2gtk-4.0-37
 
 ### Step 4: Reinstall Clash Verge  
 
-- Install Clash Verge again following instructions in [Step&nbsp;1](https://github.com/Kokodayo-CN/ClashVergeforUbuntu?tab=readme-ov-file#step-1).  
+- Install Clash Verge again following instructions in [Step&nbsp;1](https://github.com/Kokodayo-CN/Clash-Verge-for-Debian-and-Ubuntu?tab=readme-ov-file#step-1-download-clashverge-and-install).  
 
 ### Step 5: Finish  
 
