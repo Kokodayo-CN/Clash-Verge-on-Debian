@@ -19,7 +19,7 @@ Yes the app seems "installed" with trigger set up properly, but it won't open or
 ### Step 1: Download [Clash&nbsp;Verge](./clash-verge_1.3.8_amd64.deb) and Install  
 
 - Double click to install via Snap Shop (possibly not working on Ubuntu 24.04), or  
-- Use dpkg to install: `sudo dpkg -i PACKAGE`, replace `PACKAGE` with path to the package you just downloaded  
+- Use dpkg to install: `sudo dpkg -i PACKAGE`, replace `PACKAGE` with path to the package you just downloaded.  
 
 ### Step 2: Try launching Clash Verge  
 
