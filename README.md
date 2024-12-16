@@ -31,9 +31,9 @@ Yes the app seems "installed" with trigger set up properly, but it won't open or
 
 - Download [./libicu70_70.1-2_amd64.deb](libicu70_70.1-2_amd64.deb), [./libjavascriptcoregtk-4.0-18_2.36.0-2ubuntu1_amd64.deb](libjavascriptcoregtk-4.0-18_2.36.0-2ubuntu1_amd64.deb) and [./libwebkit2gtk-4.0-37_2.36.0-2ubuntu1_amd64.deb](libwebkit2gtk-4.0-37_2.36.0-2ubuntu1_amd64.deb).  
 - Install these packages with the following order:  
-  sudo dpkg -i libicu70
-  sudo dpkg -i libjavascriptcoregtk-4.0-18
-  sudo dpkg -i libwebkit2gtk-4.0-37
+    sudo dpkg -i libicu70
+    sudo dpkg -i libjavascriptcoregtk-4.0-18
+    sudo dpkg -i libwebkit2gtk-4.0-37
 - Replace names of the packages with actual paths leading to the packages.  
 
 ### Step 4: Reinstall Clash Verge  
@@ -42,7 +42,7 @@ Yes the app seems "installed" with trigger set up properly, but it won't open or
 
 ### Step 5: Finish  
 
-Congratulations! Your Clash Verge should have properly installed and can run like your real cat breaking walls.  
+- Congratulations! Your Clash Verge should have properly installed and can run like your real cat breaking walls.  
 
 ### Extra Reminder  
 
