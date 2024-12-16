@@ -14,7 +14,7 @@ Not that different from installing Clash Verge, so I'll stick with the old frien
 There is a misunderstanding in this sentence. Your installation is not successful.  
 Yes the app seems "installed" with trigger set up properly, but it won't open or load at all, because you are missing important dependencies.  
 
-## How to install Clash Verge on Ubuntu?  
+## How to install Clash Verge *Properly* on Ubuntu?  
 
 ### Step 1: Download [Clash&nbsp;Verge](./clash-verge_1.3.8_amd64.deb) and Install  
 
