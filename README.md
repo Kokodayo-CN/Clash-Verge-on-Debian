@@ -49,6 +49,7 @@ sudo dpkg -i libwebkit2gtk-4.0-37
 
 ## Extra Reminder  
 
-- If Clash Verge still refuses to open after steps above, check your terminal to check error messages after `dpkg -i` commands. Most likely you are still missing some dependencies, which will be clearly listed. Download them and use `sudo dpkg -i PACKAGE` to install. Under most cases you can't use `sudo apt --fix-broken` to resolve since your system alread failed once on finding those dependencies when installing the package. You can search online and download directly from Ubuntu Archives, then install manually.  
+- If Clash Verge still refuses to open after steps above, check your terminal to check error messages after `dpkg -i` commands. Most likely you are still missing some dependencies, which will be clearly listed. Download them and use `sudo dpkg -i PACKAGE` to install.  
+- Under most cases you can't use `sudo apt --fix-broken` to resolve missing dependencies, since your system already failed once on finding those dependencies when installing the package. You can search missing dependencis online and download directly from Ubuntu Archives, then install manually.  
 - You can always replace `dpkg -i` with `apt install` or `apt-get install`.  
 - This guide is only for users of Debian and Debian-derived distros. For folks on the Arch side, this guide won't be helpful at all.  
