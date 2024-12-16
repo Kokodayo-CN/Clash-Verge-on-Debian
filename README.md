@@ -36,7 +36,8 @@ sudo dpkg -i libicu70
 sudo dpkg -i libjavascriptcoregtk-4.0-18
 sudo dpkg -i libwebkit2gtk-4.0-37
 ```  
-- Replace names of the packages with actual paths leading to the packages.  
+- Replace names of the packages with actual paths leading to the packages.
+- If you did not follow the exact order, you may need to fix dependencies afterwards.  
 
 ### Step 4: Reinstall Clash Verge  
 
