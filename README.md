@@ -1,6 +1,6 @@
-# Clash Verge for Ubuntu  
+# Clash Verge for Debian/Ubuntu  
 
-This is an archive of installation package and dependencies of Clash Verge on Ubuntu.  
+This is an archive of installation package and dependencies of Clash Verge on Debian/Ubuntu.  
 I mostly set it up so I won't be panicing after reinstalling Ubuntu and can't go over the big wall.  
 
 ## Why didn't I try [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev)?  
@@ -24,7 +24,7 @@ Yes the app seems "installed" with trigger set up properly, but it won't open or
 ### Step 2: Try launching Clash Verge  
 
 - If the little kitten opens, you're done!  
-- However, if you are running a modern version of Ubuntu (version >= 20.04), chances are that it won't load at all.  
+- However, if you are running a modern version of Debian/Ubuntu (e.g. Ubuntu version >= 20.04), chances are that it won't load at all.  
 - Keep following the steps below to fix your installation.  
 
 ### Step 3: Install Dependencies  
