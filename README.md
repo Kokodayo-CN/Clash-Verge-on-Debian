@@ -9,10 +9,10 @@ I'm already used to using Clash and Clash Verge, and I prefer to have a little c
 Besides, it seems using Clash Verge Rev also requires going through the hassle of installing extra dependencies.  
 Not that different from installing Clash Verge, so I'll stick with the old friend.  
 
-## Why I can't open Clash Verge/Clash Verge Rev after successful installation?  
+## Why can't I open Clash Verge/Clash Verge Rev after successful installation?  
 
 There is a misunderstanding in this sentence. Your installation is not successful.  
-Yes the app seems "installed" with trigger set up properly, but it won't open or load at all, because you are missing important dependencies.  
+Yes Clash Verge seems "installed" with trigger set up properly, but it won't open or load at all, because you are missing important dependencies.  
 
 ## How to install Clash Verge *Properly* on Ubuntu?  
 
