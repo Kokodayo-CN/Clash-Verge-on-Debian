@@ -35,8 +35,9 @@ Yes Clash Verge seems "installed" with trigger set up properly, but it won't ope
 sudo dpkg -i libicu70
 sudo dpkg -i libjavascriptcoregtk-4.0-18
 sudo dpkg -i libwebkit2gtk-4.0-37
-```  
-- Replace names of the packages with actual paths leading to the packages.
+```
+- **WARNING**: Links above are linked to Debian/Ubuntu packages targeting x64 CPUs. If your system operates on CPUs with different architecture, please search online for designated packages for your system.  
+- Replace names of the packages with actual paths/relative paths leading to the packages.
 - If you did not follow the exact order, you may need to fix dependencies afterwards.  
 
 ### Step 4: Reinstall Clash Verge  
